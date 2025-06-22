@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oacIsdkMnt8=",
+  "dgSpecHash": "wbZW5zNrqFM=",
   "success": true,
-  "projectFilePath": "c:\\Users\\court\\wealth.com-asset-management\\AssetManagementApi\\AssetManagementApi.csproj",
+  "projectFilePath": "C:\\Users\\court\\wealth.com-asset-management\\AssetManagementApi\\AssetManagementApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\court\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\court\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",

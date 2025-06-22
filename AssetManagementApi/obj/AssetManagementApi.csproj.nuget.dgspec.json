@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\court\\wealth.com-asset-management\\AssetManagementApi\\AssetManagementApi.csproj": {}
+    "C:\\Users\\court\\wealth.com-asset-management\\AssetManagementApi\\AssetManagementApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\court\\wealth.com-asset-management\\AssetManagementApi\\AssetManagementApi.csproj": {
+    "C:\\Users\\court\\wealth.com-asset-management\\AssetManagementApi\\AssetManagementApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\court\\wealth.com-asset-management\\AssetManagementApi\\AssetManagementApi.csproj",
+        "projectUniqueName": "C:\\Users\\court\\wealth.com-asset-management\\AssetManagementApi\\AssetManagementApi.csproj",
         "projectName": "AssetManagementApi",
-        "projectPath": "c:\\Users\\court\\wealth.com-asset-management\\AssetManagementApi\\AssetManagementApi.csproj",
+        "projectPath": "C:\\Users\\court\\wealth.com-asset-management\\AssetManagementApi\\AssetManagementApi.csproj",
         "packagesPath": "C:\\Users\\court\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\court\\wealth.com-asset-management\\AssetManagementApi\\obj\\",
+        "outputPath": "C:\\Users\\court\\wealth.com-asset-management\\AssetManagementApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\court\\AppData\\Roaming\\NuGet\\NuGet.Config"
